@@ -1,0 +1,15 @@
+git checkout master
+git merge main
+git push origin master
+
+git checkout master
+git merge main
+git push origin master
+
+git branch
+git checkout -b update_script
+git add script.py
+git commit -m "Updated script"
+git push origin update_script
+git push -u origin update_script
+
