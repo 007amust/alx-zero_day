@@ -12,4 +12,4 @@ git add script.py
 git commit -m "Updated script"
 git push origin update_script
 git push -u origin update_script
-
+git pull
